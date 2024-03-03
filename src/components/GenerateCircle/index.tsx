@@ -8,7 +8,7 @@ export default function GenerateCircle(props: {
   return (
     <div className="flex gap-2">
       <div>
-        <label>Width</label>
+        <label>Radius</label>
         <input
           type="number"
           className=" ml-2 p-2 w-16 border-2 rounded-lg border-gray-300"
